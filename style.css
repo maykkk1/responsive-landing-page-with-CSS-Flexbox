@@ -150,7 +150,7 @@ body {
     bottom: 0;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .card-wrapper {
         width: 90%;
     }
